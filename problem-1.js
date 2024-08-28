@@ -15,7 +15,13 @@ var chemistry = 80;
 var physics = 35.45;
 var bangla = 99.50;
 var sum = mathematics + biology + chemistry + physics + bangla;
-console.log(sum);
+// console.log(sum);
 
 var avg = sum / 5;
-console.log(avg.toFixed(2));
+// console.log(avg.toFixed(2));
+
+// Problem-3
+var num1 = 119;
+var num2 = 5;
+var remainder = num1 % num2;
+console.log(remainder);
